@@ -1,4 +1,4 @@
-# High_and_Low_Record_Temps
+# Description
 As one way of looking at climate change (often called global warming, but more accurately called climate chaos, per one NASA researcher), this study compares record high and low temperatures at six weather stations across the globe for both 1916-1920 and 2015-2019 to determine which time period had more records of each kind set.
 
 The weather stations are:
@@ -13,4 +13,9 @@ The weather stations are:
      2. New Orleans, USA (NOUS)
      3. Seattle, USA (SUS)
      
-The data source is from the NOAA, but hosted by Kaggle (https://www.kaggle.com/noaa/ghcn-d).
+# Dataset
+The data source is from NOAA, but hosted by Kaggle (https://www.kaggle.com/noaa/ghcn-d).
+
+# Tools
+     1. Python
+     2. Delimit
